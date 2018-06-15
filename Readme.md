@@ -42,4 +42,4 @@ In this step we are going to..
 
 * Add layer controls to our map.
 
-![png](Images/darkmap.png)
+![png](Images/darkmap.PNG)
