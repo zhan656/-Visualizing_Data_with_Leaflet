@@ -13,7 +13,7 @@ better educate the public and other government organizations (and hopefully secu
 ## Task
 
 ### Step 1. **Get your data set**
-    ![3-Data](Images/3-Data.png)
+    ![png](Images/3-Data.png)
     
     The USGS provides earthquake data in a number of different formats, updated every 5 minutes. 
     Visit the [USGS GeoJSON Feed](http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) 
@@ -21,7 +21,7 @@ better educate the public and other government organizations (and hopefully secu
     from the Past 7 Days', you will be given a JSON representation of that data. In this project, we will be using the 
     URL of this JSON to pull in the data for our visualization.
     
-    ![4-JSON](Images/4-JSON.png)
+    ![png](Images/4-JSON.png)
     
 ### Step 2. **Import & Visualize the Data**
     Create a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
@@ -42,4 +42,4 @@ better educate the public and other government organizations (and hopefully secu
 
     * Add layer controls to our map.
     
-    ![4-darkmap](Images/darkmap.png)
+    ![png](Images/darkmap.png)
